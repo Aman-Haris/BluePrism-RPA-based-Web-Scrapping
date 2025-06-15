@@ -93,6 +93,12 @@ Guided by:
 
 ---
 
+## 📜 License
+
+This project is developed as part of an academic project under VTU (2020-2021). You are free to fork or use the code for learning purposes. For commercial use, please contact the authors.
+
+---
+
 ## 📚 References
 
 - [Blue Prism Official Site](https://www.blueprism.com)
