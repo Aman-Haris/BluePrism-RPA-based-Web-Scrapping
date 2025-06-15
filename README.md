@@ -82,17 +82,7 @@ blueprism-rpa-webscraping/
 
 ---
 
-## 🔮 Future Enhancements
-
-- Enable user input to search for any product dynamically.
-- Add multi-site scraping support (e.g., Amazon, Flipkart, Snapdeal).
-- Automate comparison across more than two products.
-- Introduce logging and error-handling enhancements.
-- Replace Internet Explorer with modern browser automation using Edge/Chrome extensions.
-
----
-
-## 👤 Author
+## ✍️ Author
 
 - Aman Haris (1AM18CS016)
 
@@ -107,4 +97,4 @@ Guided by:
 
 - [Blue Prism Official Site](https://www.blueprism.com)
 - [Blue Prism Community](https://community.blueprism.com)
-- [YouTube Tutorials](https://www.youtube.com/results?search_query=data+extract+from+flipkart)
+- [YouTube Tutorials](https://www.youtube.com/results?search_query=data+extract+from+flipkart+using+blueprism)
